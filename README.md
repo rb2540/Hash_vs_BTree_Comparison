@@ -5,6 +5,7 @@
 2. Each script is run with the path of the test file as a command-line argument
 
 3. Run Q1_hash.py first, then Q1_btree.py
+
 Ex:
 >python Q1_hash.py test_file.txt
 and
