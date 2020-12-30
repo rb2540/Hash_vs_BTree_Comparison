@@ -1,3 +1,7 @@
+### Overview: 
+
+This repo contains various tests for comparing hash tables and B-trees in Python.
+
 ### Instructions: 
 
 1. Install BTree library with `pip install BTrees`
